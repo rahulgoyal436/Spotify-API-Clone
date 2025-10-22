@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+song-microservice,com.csc301.songmicroservice,Song,77,15,0,0,23,6,12,1,12,1
+song-microservice,com.csc301.songmicroservice,SongMicroserviceApplication,8,3,0,0,3,1,1,1,1,1
+song-microservice,com.csc301.songmicroservice,DbQueryStatus,4,29,0,0,2,12,1,6,1,6
+song-microservice,com.csc301.songmicroservice,SongController,138,207,3,5,23,38,5,5,3,3
+song-microservice,com.csc301.songmicroservice,SongDalImpl,95,141,10,18,18,30,7,13,2,4
+song-microservice,com.csc301.songmicroservice,Utils,14,47,3,5,2,13,4,5,1,3
+song-microservice,com.csc301.songmicroservice,DbQueryExecResult,0,21,0,0,0,2,0,1,0,1
